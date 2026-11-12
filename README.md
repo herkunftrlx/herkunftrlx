@@ -38,14 +38,6 @@ Turkish-Russian • 20 y/o • She/Her • Windows 11 & Rustacean
 
 <div align="center">
 
-### 📊 GitHub Activity & Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=herkunftrlx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Deniz's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herkunftrlx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
----
-
 🌐 [Tailscale Node](https://casper.taile8fe2a.ts.net/) • 📸 [Instagram (@herkunftrlx)](https://www.instagram.com/herkunftrlx/?hl=tr)
 
 </div>
