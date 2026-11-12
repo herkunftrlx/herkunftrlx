@@ -20,10 +20,10 @@ Turkish-Russian • 20 y/o • She/Her • Windows 11 & Rustacean
 
 ### ⚡ About Me
 
-- 🦀 **Primary Language:** **Rust** (*zero-cost abstractions, memory safety, compile-time rigor*).
+- 🦀 **Primary Language:** **Turkish** and **Rust** (*zero-cost abstractions, memory safety, compile-time rigor*).
 - 🧠 **Focus Area:** Machine Learning / Deep Learning, Systems Telemetry, and High-Performance Tools.
 - 🛠️ **Current Mission:** Eliminating legacy C/C++ memory hazards with modern, idiomatic Rust.
-- 🌐 **Network:** Running on a private mesh with **Tailscale** (`casper.ts.net`).
+- 🌐 **Network:** Running on a private mesh with **Tailscale** (`https://casper.taile8fe2a.ts.net/`).
 
 ---
 
