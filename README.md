@@ -33,6 +33,7 @@ Turkish-Russian • 20 y/o • She/Her • Windows 11 & Rustacean
 | :--- | :--- | :--- |
 | [🌸 **snow-overlay**](https://github.com/herkunftrlx/snow-overlay) | *Aesthetic falling snow screen overlay add-on.* | `Rust` `Win32` |
 | [🦀 **rust-manager**](https://github.com/herkunftrlx/rust-manager) | *Interactive, blazing-fast Windows Task Manager & Process Monitor.* | `Rust` `Ratatui` `Crossterm` |
+| [🦀 **rs-input-overlay**](https://github.com/herkunftrlx/rs-input-overlay) | *Keyboard & Mouse Tracker for games. No Anti-Cheat problem (Tested).* | `Rust` `Win32` |
 
 ---
 
